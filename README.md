@@ -1,4 +1,4 @@
-# Datasets
+# Public Datasets
 
 These are some of the public data sets which I have used for my personal projects in Python/Unix/SQL and for building data dashboards in Tableau.
 
